@@ -1,0 +1,20 @@
+merchant_id,merchant_name,account_manager,merchant_category,default_region,,,,,,
+M001,Alpha Mart,Aisha Khan,Grocery,APAC,,,Row Labels,Sum of raw_amount,Count of status,Average of risk_score
+M002,Beta Stores,Rohan Mehta,Electronics,APAC,,,Alpha Mart,3420000,11,61.2
+M003,City Pharma,Elena Rossi,Healthcare,EU,,,Captured,2515000,8,57.75
+M004,Delta Travels,Marcus Lee,Travel,US,,,Chargeback,450000,1,83
+M005,Eco Home,Nina Weber,Home,EU,,,Failed,455000,2,67
+,,,,,,,Beta Stores,3490000,11,69.36363636
+,,,,,,,Captured,2785000,7,66.85714286
+,,,,,,,Chargeback,145000,1,86
+,,,,,,,Failed,560000,3,69.66666667
+,,,,,,,City Pharma,8000,2,40
+,,,,,,,Captured,8000,2,40
+,,,,,,,Delta Travels,14600,4,48.75
+,,,,,,,Captured,10300,2,45
+,,,,,,,Chargeback,2500,1,58
+,,,,,,,Failed,1800,1,47
+,,,,,,,Eco Home,9400,2,54.5
+,,,,,,,Chargeback,6100,1,65
+,,,,,,,Failed,3300,1,44
+,,,,,,,Grand Total,6942000,30,60.65517241
