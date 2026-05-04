@@ -2,5 +2,5 @@
 This is the analysis done of QuickPay through Excel, Python, JSON and Looker Studio
 Student Name: Ananya Khandelwal
 Student ID: BITSoM_FTAI_2601077 
-Public GitHub Repository Link: 
+Public GitHub Repository Link: https://github.com/ananya2-star/Data-analysis-of-QuickPay
 Tools used: Excel, Python, JSON and Looker Studio
