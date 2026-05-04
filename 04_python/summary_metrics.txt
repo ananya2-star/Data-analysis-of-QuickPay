@@ -1,0 +1,12 @@
+Python file - https://colab.research.google.com/drive/1TFOlsdntFRLxA44kK_4ortx5qFTL9S58?usp=sharing
+{'total_ledger_records': 10,
+ 'total_gateway_records': 9,
+ 'ledger_duplicates': 0,
+ 'gateway_duplicates': 0,
+ 'ledger_nulls': 0,
+ 'gateway_nulls': 0,
+ 'missing_in_gateway': 2,
+ 'missing_in_ledger': 1,
+ 'amount_mismatches': 2,
+ 'status_mismatches': 1,
+ 'perfect_matches': 5}
